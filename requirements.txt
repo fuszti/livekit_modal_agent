@@ -1,0 +1,7 @@
+aiohttp==3.11.9
+livekit
+livekit-agents[google,silero,deepgram,turn-detector]==1.0.20
+python-dotenv
+fastapi[standard]
+modal
+click==8.1.7
